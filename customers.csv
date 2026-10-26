@@ -1,0 +1,121 @@
+customer_id,customer_name,email,city,created_at,state,country,signup_date
+C001,Aarav Menon,aarav.menon@example.com,Chennai,2026-10-24 11:09:09,Tamil Nadu,India,2026-01-01
+C002,Diya Nair,diya.nair@example.com,Coimbatore,2026-10-24 11:09:09,Tamil Nadu,India,2026-01-02
+C003,Ishaan Rao,ishaan.rao@example.com,Bengaluru,2026-10-24 11:09:09,Karnataka,India,2026-01-03
+C004,Ananya Iyer,ananya.iyer@example.com,Madurai,2026-10-24 11:09:09,Tamil Nadu,India,2026-01-04
+C005,Vihaan Reddy,vihaan.reddy@example.com,Hyderabad,2026-10-24 11:09:09,Telangana,India,2026-01-05
+C006,Meera Das,meera.das@example.com,Kochi,2026-10-24 11:09:09,Kerala,India,2026-01-06
+C007,Aditya Shah,aditya.shah@example.com,Mumbai,2026-10-24 11:09:09,Maharashtra,India,2026-01-07
+C008,Ira Patel,ira.patel@example.com,Ahmedabad,2026-10-24 11:09:09,Gujarat,India,2026-01-08
+C009,Rohan Verma,rohan.verma@example.com,Delhi,2026-10-24 11:09:09,Delhi,India,2026-01-09
+C010,Kavya Pillai,kavya.pillai@example.com,Thiruvananthapuram,2026-10-24 11:09:09,Kerala,India,2026-01-10
+C011,Arjun Kumar,arjun.kumar@example.com,Salem,2026-10-24 11:09:09,Tamil Nadu,India,2026-01-11
+C012,Sana Khan,sana.khan@example.com,Pune,2026-10-24 11:09:09,Maharashtra,India,2026-01-12
+C013,Dev Malhotra,dev.malhotra@example.com,Jaipur,2026-10-24 11:09:09,Rajasthan,India,2026-01-13
+C014,Nisha George,nisha.george@example.com,Kozhikode,2026-10-24 11:09:09,Kerala,India,2026-01-14
+C015,Kabir Joshi,,Surat,2026-10-24 11:09:09,Gujarat,India,2026-01-15
+C016,Tara Bose,tara.bose@example.com,Kolkata,2026-10-24 11:09:09,West Bengal,India,2026-01-16
+C017,Neil Fernandes,neil.fernandes@example.com,Mangaluru,2026-10-24 11:09:09,Karnataka,India,2026-01-17
+C018,Riya Sinha,riya.sinha@example.com,Patna,2026-10-24 11:09:09,Bihar,India,2026-01-18
+C019,Yash Gupta,yash.gupta@example.com,Lucknow,2026-10-24 11:09:09,Uttar Pradesh,India,2026-01-19
+C020,Aditi Roy,aditi.roy@example.com,Bhubaneswar,2026-10-24 11:09:09,Odisha,India,2026-01-20
+C021,Manav Bhat,manav.bhat@example.com,Mysuru,2026-10-24 11:09:09,Karnataka,India,2026-01-21
+C022,Pooja Krishnan,pooja.krishnan@example.com,Tiruchirappalli,2026-10-24 11:09:09,Tamil Nadu,India,2026-01-22
+C023,Siddharth Jain,siddharth.jain@example.com,Indore,2026-10-24 11:09:09,Madhya Pradesh,India,2026-01-23
+C024,Zoya Ali,zoya.ali@example.com,Srinagar,2026-10-24 11:09:09,Jammu and Kashmir,India,2026-01-24
+C025,Reyansh Paul,reyansh.paul@example.com,Guwahati,2026-10-24 11:09:09,Assam,India,2026-01-25
+C026,Maya Thomas,maya.thomas@example.com,Thrissur,2026-10-24 11:09:09,Kerala,India,2026-01-26
+C027,Atharv Singh,atharv.singh@example.com,Chandigarh,2026-10-24 11:09:09,Chandigarh,India,2026-01-27
+C028,Ishita Mehta,ishita.mehta@example.com,Vadodara,2026-10-24 11:09:09,Gujarat,India,2026-01-28
+C029,Dhruv Kapoor,dhruv.kapoor@example.com,Gurugram,2026-10-24 11:09:09,Haryana,India,2026-02-01
+C030,Aisha Rahman,aisha.rahman@example.com,Kozhikode,2026-10-24 11:09:09,Kerala,India,2026-02-02
+C031,Om Prakash,om.prakash@example.com,Varanasi,2026-10-24 11:09:09,Uttar Pradesh,India,2026-02-03
+C032,Saanvi Shetty,saanvi.shetty@example.com,,2026-10-24 11:09:09,Karnataka,India,2026-02-04
+C033,Krish Patel,krish.patel@example.com,Rajkot,2026-10-24 11:09:09,Gujarat,India,2026-02-05
+C034,Lavanya Ramesh,lavanya.ramesh@example.com,Erode,2026-10-24 11:09:09,Tamil Nadu,India,2026-02-06
+C035,Ayaan Chawla,ayaan.chawla@example.com,Amritsar,2026-10-24 11:09:09,Punjab,India,2026-02-07
+C036,Sia Dutta,sia.dutta@example.com,Siliguri,2026-10-24 11:09:09,West Bengal,India,2026-02-08
+C037,Harsh Vardhan,harsh.vardhan@example.com,Noida,2026-10-24 11:09:09,Uttar Pradesh,India,2026-02-09
+C038,Tanvi Kulkarni,tanvi.kulkarni@example.com,Nagpur,2026-10-24 11:09:09,Maharashtra,India,2026-02-10
+C039,Ritvik Sen,ritvik.sen@example.com,Ranchi,2026-10-24 11:09:09,Jharkhand,India,2026-02-11
+C040,Nandini Menon,nandini.menon@example.com,Kannur,2026-10-24 11:09:09,Kerala,India,2026-02-12
+C041,Akhil Menon,akhil.menon@example.com,Chennai,2026-10-24 11:12:48,Tamil Nadu,India,2026-02-13
+C042,Sreya Nair,sreya.nair@example.com,Kochi,2026-10-24 11:12:48,Kerala,India,2026-02-14
+C043,Varun Rao,varun.rao@example.com,Bengaluru,2026-10-24 11:12:48,Karnataka,India,2026-02-15
+C044,Harini Iyer,harini.iyer@example.com,Madurai,2026-10-24 11:12:48,Tamil Nadu,India,2026-02-16
+C045,Rishabh Reddy,rishabh.reddy@example.com,Hyderabad,2026-10-24 11:12:48,Telangana,India,2026-02-17
+C046,Amala Thomas,amala.thomas@example.com,Thrissur,2026-10-24 11:12:48,Kerala,India,2026-02-18
+C047,Samar Shah,samar.shah@example.com,Mumbai,2026-10-24 11:12:48,Maharashtra,India,2026-02-19
+C048,Hetal Patel,hetal.patel@example.com,Ahmedabad,2026-10-24 11:12:48,Gujarat,India,2026-02-20
+C049,Kunal Verma,kunal.verma@example.com,Delhi,2026-10-24 11:12:48,Delhi,India,2026-02-21
+C050,Anjali Pillai,anjali.pillai@example.com,Kozhikode,2026-10-24 11:12:48,Kerala,India,2026-02-22
+C051,Surya Kumar,surya.kumar@example.com,Salem,2026-10-24 11:12:48,Tamil Nadu,India,2026-02-23
+C052,Farah Khan,farah.khan@example.com,Pune,2026-10-24 11:12:48,Maharashtra,India,2026-02-24
+C053,Aman Gupta,aman.gupta@example.com,Jaipur,2026-10-24 11:12:48,Rajasthan,India,2026-02-25
+C054,Neeraj Bose,neeraj.bose@example.com,Kolkata,2026-10-24 11:12:48,West Bengal,India,2026-02-26
+C055,Joel Fernandes,joel.fernandes@example.com,Mangaluru,2026-10-24 11:12:48,Karnataka,India,2026-02-27
+C056,Ritika Sinha,ritika.sinha@example.com,Patna,2026-10-24 11:12:48,Bihar,India,2026-02-28
+C057,Gaurav Joshi,gaurav.joshi@example.com,Indore,2026-10-24 11:12:48,Madhya Pradesh,India,2026-03-01
+C058,Sana Mir,sana.mir@example.com,Srinagar,2026-10-24 11:12:48,Jammu and Kashmir,India,2026-03-02
+C059,Pranav Paul,pranav.paul@example.com,Guwahati,2026-10-24 11:12:48,Assam,India,2026-03-03
+C060,Mithila Das,mithila.das@example.com,Bhubaneswar,2026-10-24 11:12:48,Odisha,India,2026-03-04
+C061,Nikhil Bhat,nikhil.bhat@example.com,Mysuru,2026-10-24 11:12:48,Karnataka,India,2026-03-05
+C062,Janani Krishnan,janani.krishnan@example.com,Tiruchirappalli,2026-10-24 11:12:48,Tamil Nadu,India,2026-03-06
+C063,Rajat Jain,rajat.jain@example.com,Bhopal,2026-10-24 11:12:48,Madhya Pradesh,India,2026-03-07
+C064,Aaliya Ali,aaliya.ali@example.com,Lucknow,2026-10-24 11:12:48,Uttar Pradesh,India,2026-03-08
+C065,Shreyas Shetty,shreyas.shetty@example.com,Udupi,2026-10-24 11:12:48,Karnataka,India,2026-03-09
+C066,Malavika Menon,malavika.menon@example.com,Kannur,2026-10-24 11:12:48,Kerala,India,2026-03-10
+C067,Abhinav Singh,abhinav.singh@example.com,Chandigarh,2026-10-24 11:12:48,Chandigarh,India,2026-03-11
+C068,Mansi Mehta,mansi.mehta@example.com,Vadodara,2026-10-24 11:12:48,Gujarat,India,2026-03-12
+C069,Devansh Kapoor,devansh.kapoor@example.com,Gurugram,2026-10-24 11:12:48,Haryana,India,2026-03-13
+C070,Nivedita Roy,nivedita.roy@example.com,Siliguri,2026-10-24 11:12:48,West Bengal,India,2026-03-14
+C071,Prithvi Chawla,prithvi.chawla@example.com,Amritsar,2026-10-24 11:12:48,Punjab,India,2026-03-15
+C072,Ishani Dutta,ishani.dutta@example.com,Ranchi,2026-10-24 11:12:48,Jharkhand,India,2026-03-16
+C073,Keshav Malhotra,keshav.malhotra@example.com,Noida,2026-10-24 11:12:48,Uttar Pradesh,India,2026-03-17
+C074,Aparna Kulkarni,aparna.kulkarni@example.com,Nagpur,2026-10-24 11:12:48,Maharashtra,India,2026-03-18
+C075,Rudra Sen,rudra.sen@example.com,Kolkata,2026-10-24 11:12:48,West Bengal,India,2026-03-19
+C076,Nila George,nila.george@example.com,Alappuzha,2026-10-24 11:12:48,Kerala,India,2026-03-20
+C077,Sanjana Rao,sanjana.rao@example.com,Vijayawada,2026-10-24 11:12:48,Andhra Pradesh,India,2026-03-21
+C078,Arnav Desai,arnav.desai@example.com,Panaji,2026-10-24 11:12:48,Goa,India,2026-03-22
+C079,Keerthana Ramesh,keerthana.ramesh@example.com,Erode,2026-10-24 11:12:48,Tamil Nadu ,India,2026-03-23
+C080,Zainab Rahman,zainab.rahman@example.com,Kozhikode,2026-10-24 11:12:48,Kerala,India,2026-03-24
+C081,Akash Menon,akash.menon@example.com,Chennai,2026-10-24 11:14:22,Tamil Nadu,India,2026-03-25
+C082,Rhea Nair,rhea.nair@example.com,Kochi,2026-10-24 11:14:22,Kerala,India,2026-03-26
+C083,Tarun Rao,tarun.rao@example.com,Bengaluru,2026-10-24 11:14:22,Karnataka,India,2026-03-27
+C084,Sowmya Iyer,sowmya.iyer@example.com,Madurai,2026-10-24 11:14:22,Tamil Nadu,India,2026-03-28
+C085,Kiran Reddy,kiran.reddy@example.com,Hyderabad,2026-10-24 11:14:22,Telangana,India,2026-03-29
+C086,Anu Thomas,anu.thomas@example.com,Thrissur,2026-10-24 11:14:22,Kerala,India,2026-03-30
+C087,Ritesh Shah,ritesh.shah@example.com,Mumbai,2026-10-24 11:14:22,Maharashtra,India,2026-03-31
+C088,Dhara Patel,dhara.patel@example.com,Ahmedabad,2026-10-24 11:14:22,Gujarat,India,2026-04-01
+C089,Mohit Verma,mohit.verma@example.com,Delhi,2026-10-24 11:14:22,Delhi,India,2026-04-02
+C090,Fathima Pillai,fathima.pillai@example.com,Kozhikode,2026-10-24 11:14:22,Kerala,India,2026-04-03
+C091,Bharath Kumar,bharath.kumar@example.com,Salem,2026-10-24 11:14:22,Tamil Nadu,India,2026-04-04
+C092,Nazia Khan,nazia.khan@example.com,Pune,2026-10-24 11:14:22,Maharashtra,India,2026-04-05
+C093,Sahil Gupta,sahil.gupta@example.com,Jaipur,2026-10-24 11:14:22,Rajasthan,India,2026-04-06
+C094,Trisha Bose,trisha.bose@example.com,Kolkata,2026-10-24 11:14:22,West Bengal,India,2026-04-07
+C095,Francis Fernandes,francis.fernandes@example.com,Mangaluru,2026-10-24 11:14:22,Karnataka,India,2026-04-08
+C096,Pallavi Sinha,pallavi.sinha@example.com,Patna,2026-10-24 11:14:22,Bihar,India,2026-04-09
+C097,Aarush Joshi,aarush.joshi@example.com,Indore,2026-10-24 11:14:22,Madhya Pradesh,India,2026-04-10
+C098,Saba Mir,saba.mir@example.com,Srinagar,2026-10-24 11:14:22,Jammu and Kashmir,India,2026-04-11
+C099,Nitin Paul,nitin.paul@example.com,Guwahati,2026-10-24 11:14:22,Assam,India,2026-04-12
+C100,Madhuri Das,madhuri.das@example.com,Bhubaneswar,2026-10-24 11:14:22,Odisha,India,2026-04-13
+C101,Vikram Bhat,vikram.bhat@example.com,Mysuru,2026-10-24 11:14:22,Karnataka,India,2026-04-14
+C102,Gayathri Krishnan,gayathri.krishnan@example.com,Tiruchirappalli,2026-10-24 11:14:22,Tamil Nadu,India,2026-04-15
+C103,Abhay Jain,abhay.jain@example.com,Bhopal,2026-10-24 11:14:22,Madhya Pradesh,India,2026-04-16
+C104,Maira Ali,maira.ali@example.com,Lucknow,2026-10-24 11:14:22,Uttar Pradesh,India,2026-04-17
+C105,Tejas Shetty,tejas.shetty@example.com,Udupi,2026-10-24 11:14:22,Karnataka,India,2026-04-18
+C106,Devika Menon,devika.menon@example.com,Kannur,2026-10-24 11:14:22,Kerala,India,2026-04-19
+C107,Siddhant Singh,siddhant.singh@example.com,Chandigarh,2026-10-24 11:14:22,Chandigarh,India,2026-04-20
+C108,Nupur Mehta,nupur.mehta@example.com,Vadodara,2026-10-24 11:14:22,Gujarat,India,2026-04-21
+C109,Armaan Kapoor,armaan.kapoor@example.com,Gurugram,2026-10-24 11:14:22,Haryana,India,2026-04-22
+C110,Piyali Roy,piyali.roy@example.com,Siliguri,2026-10-24 11:14:22,West Bengal,India,2026-04-23
+C111,Lakshya Chawla,lakshya.chawla@example.com,Amritsar,2026-10-24 11:14:22,Punjab,India,2026-04-24
+C112,Ishani Dutta,ishani.dutta2@example.com,Ranchi,2026-10-24 11:14:22,Jharkhand,India,2026-04-25
+C113,Yuvraj Malhotra,yuvraj.malhotra@example.com,Noida,2026-10-24 11:14:22,Uttar Pradesh,India,2026-04-26
+C114,Shreya Kulkarni,shreya.kulkarni@example.com,Nagpur,2026-10-24 11:14:22,Maharashtra,India,2026-04-27
+C115,Aniket Sen,aniket.sen@example.com,Kolkata,2026-10-24 11:14:22,West Bengal,India,2026-04-28
+C116,Elsa George,elsa.george@example.com,Alappuzha,2026-10-24 11:14:22,Kerala,India,2026-04-29
+C117,Pavan Rao,pavan.rao@example.com,Vijayawada,2026-10-24 11:14:22,Andhra Pradesh,India,2026-04-30
+C118,Mihir Desai,mihir.desai@example.com,Panaji,2026-10-24 11:14:22,Goa,India,2026-05-01
+C119,Roshni Ramesh,roshni.ramesh@example.com,Erode,2026-10-24 11:14:22,Tamil Nadu ,India,2026-05-02
+C120,Zara Rahman,zara.rahman@example.com,Kozhikode,2026-10-24 11:14:22,Kerala,India,2026-05-03
